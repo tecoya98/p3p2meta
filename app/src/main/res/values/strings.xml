@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">p3p2meta</string>
+    <string name="tnombre">Ingresa tu nombre</string>
+    <string name="tedad">Ingrese su edad</string>
+    <string name="tcorreo">Ingrese su correro</string>
+    <string name="txurp">Ingrese su curp</string>
+</resources>
